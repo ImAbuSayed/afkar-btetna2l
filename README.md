@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيونك تسحرني في كل ليلة
+> وروحي تنادي طيفك في الأحلام
+> أذوب في غرامك ولا باليد حيلة
+> ودقات قلبي تروي كل الكلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
