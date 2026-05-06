@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/afkar-btetna2l/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Afkar Btetna2l](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Afkar Btetna2l](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
